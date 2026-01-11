@@ -11,7 +11,7 @@ Gestion complète d'une liste de produits (ajout, suppression, modification, rec
 
 **Exécution :**
 
-![Lists Execution](screenshots/lists.png)
+![Lists Execution](screenshots/lists.jpg)
 
 ---
 
@@ -25,7 +25,7 @@ insertion, augmentation, suppression, taille, moyenne/max/min, présence de la n
 
 **Exécution :**
 
-![Maps Execution](screenshots/maps.png)
+![Maps Execution](screenshots/maps.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ Gestion de deux groupes d'étudiants avec calcul de :
 
 **Exécution :**
 
-![Sets Execution](screenshots/sets.png)
+![Sets Execution](screenshots/sets.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ Testée avec `Integer`, `String` et `Double`.
 
 **Exécution :**
 
-![Generics1 Execution](screenshots/generics1.png)
+![Generics1 Execution](screenshots/generics1.jpg)
 
 ---
 
